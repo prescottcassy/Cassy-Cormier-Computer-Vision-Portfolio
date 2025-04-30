@@ -2,7 +2,7 @@
 Welcome to my computer vision portfolio! 
 This repository contains all the work completed to learn computer vision, organized by modules for easy navigation and review.
 
-##📚 Table of Contents
+## 📚 Table of Contents
 📜 Section 1 – Historical Timeline of Computer Vision
 
 🖼️ Section 2 – Image Formats and Compression
